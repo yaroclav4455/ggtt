@@ -6,7 +6,9 @@
 {
   static void Main(string[] args)
   {
-    Console.WriteLine ("Project by Grad Yar");
+    
+    string name = "Grad and Yar";
+    Console.WriteLine($"Project by {name}");
   }
 }
 }
