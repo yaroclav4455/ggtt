@@ -2,10 +2,11 @@
 public class Dialogue
 public string Chapter
 { 
-get
+
 {
 return chapter; 
-} 
+}
+jkjkjikj
 } 
 publie string Part {
 get 
